@@ -1,0 +1,5 @@
+C:\Kevin_Folder\Resume\Trainer Road LLC - Remote\bike-distributor-refactor\BikeDistributor\bin\Debug\BikeDistributor.dll
+C:\Kevin_Folder\Resume\Trainer Road LLC - Remote\bike-distributor-refactor\BikeDistributor\bin\Debug\BikeDistributor.pdb
+C:\Kevin_Folder\Resume\Trainer Road LLC - Remote\bike-distributor-refactor\BikeDistributor\obj\Debug\BikeDistributor.csprojResolveAssemblyReference.cache
+C:\Kevin_Folder\Resume\Trainer Road LLC - Remote\bike-distributor-refactor\BikeDistributor\obj\Debug\BikeDistributor.dll
+C:\Kevin_Folder\Resume\Trainer Road LLC - Remote\bike-distributor-refactor\BikeDistributor\obj\Debug\BikeDistributor.pdb

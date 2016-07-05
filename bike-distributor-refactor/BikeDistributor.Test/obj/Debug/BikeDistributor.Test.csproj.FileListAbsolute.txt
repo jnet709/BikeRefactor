@@ -1,0 +1,9 @@
+C:\Kevin_Folder\Resume\Trainer Road LLC - Remote\bike-distributor-refactor\BikeDistributor.Test\bin\Debug\BikeDistributor.Test.dll
+C:\Kevin_Folder\Resume\Trainer Road LLC - Remote\bike-distributor-refactor\BikeDistributor.Test\bin\Debug\BikeDistributor.Test.pdb
+C:\Kevin_Folder\Resume\Trainer Road LLC - Remote\bike-distributor-refactor\BikeDistributor.Test\bin\Debug\BikeDistributor.dll
+C:\Kevin_Folder\Resume\Trainer Road LLC - Remote\bike-distributor-refactor\BikeDistributor.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Kevin_Folder\Resume\Trainer Road LLC - Remote\bike-distributor-refactor\BikeDistributor.Test\bin\Debug\BikeDistributor.pdb
+C:\Kevin_Folder\Resume\Trainer Road LLC - Remote\bike-distributor-refactor\BikeDistributor.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Kevin_Folder\Resume\Trainer Road LLC - Remote\bike-distributor-refactor\BikeDistributor.Test\obj\Debug\BikeDistributor.Test.csprojResolveAssemblyReference.cache
+C:\Kevin_Folder\Resume\Trainer Road LLC - Remote\bike-distributor-refactor\BikeDistributor.Test\obj\Debug\BikeDistributor.Test.dll
+C:\Kevin_Folder\Resume\Trainer Road LLC - Remote\bike-distributor-refactor\BikeDistributor.Test\obj\Debug\BikeDistributor.Test.pdb
